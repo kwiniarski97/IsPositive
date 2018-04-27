@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="IsNegative" Version="1.0.2" />
+    <PackageReference Include="IsZero" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
