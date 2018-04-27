@@ -1,7 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Authors>https://github.com/kwiniarski97/</Authors>
+    <Company>https://github.com/kwiniarski97/</Company>
+    <Description>Ever wondered if the number is positive? I got answer for you!</Description>
+    <Copyright>GNU GPL v3</Copyright>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kwiniarski97/IsPositive</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/kwiniarski97/IsPositive/master/IsPositive/icon.ico</PackageIconUrl>
+    <RepositoryUrl>https://github.com/kwiniarski97/IsPositive</RepositoryUrl>
+    <PackageReleaseNotes>is positive, is, positive, is-positive, ispositive</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

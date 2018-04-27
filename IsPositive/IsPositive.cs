@@ -1,8 +1,4 @@
-﻿using System;
-
-using static IsNegative;
-
-public class IsPositive
+﻿public class IsPositive
 {
     public static bool Check(long number)
     {
